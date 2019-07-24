@@ -32,11 +32,11 @@ console.log(websites); */
     "Godfather"
 ];
 //delete first from shift, add for unshift, select from slice, 
-// position with splice, reverse array
+// position with splice, reverse array word
 movies.splice (3, 0, "Starwars", "Batman");
 console.log(movies); */
 
-var movies = [
+/* var movies = [
     "Spider-man",
     "Thor",
     "Goodfellas",
@@ -46,4 +46,4 @@ var movies = [
 ];
 //searches specified movie
 var reel = movies.lastIndexOf ("Godfather");
-console.log(reel);
+console.log(reel); */ 
